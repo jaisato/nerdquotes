@@ -180,7 +180,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > **Truth** can only be found in one place: **the code**.
 
-*Uncle Bob, [Clean Code](http://www.goodreads.com/book/show/3735293-clean-code)*
+*Uncle Bob, [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)*
 
 -------
 
